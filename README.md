@@ -7,5 +7,4 @@
 - This version is for 1.8.9 Minecraft only. Not planning to update on every version.
 
 ## ☕ Support Me
-If you like this project, you can support me on Ko-fi:  
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/evhoang)
+
